@@ -1,4 +1,4 @@
-[[![MasterHead](https://media.licdn.com/dms/image/D4D03AQHEFTjye69UKA/profile-displayphoto-shrink_200_200/0/1710594584757?e=1716422400)
+[![MasterHead](https://media.licdn.com/dms/image/D4D03AQHEFTjye69UKA/profile-displayphoto-shrink_200_200/0/1710594584757?e=1716422400)
 &v=beta&t=nVZhT8FZbOhKwRBYyYSleTHBxt3txGSSVHsTiwsseio
 <h1 align="center">Hi 👋, I'm Batuhan Aral</h1>
 <h3 align="center">A passionate Backend developer from Turket</h3>
