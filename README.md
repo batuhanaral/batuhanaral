@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercrafter.com/sizes/2560x1440/76938-mr-robot-tv-shows-hd-4k-typography.jpg)&v=beta&t=nVZhT8FZbOhKwRBYyYSleTHBxt3txGSSVHsTiwsseio
+[![MasterHead](https://wallpapercrafter.com/sizes/2560x1440/76938-mr-robot-tv-shows-hd-4k-typography.jpg)
 <h1 align="center">Hi 👋, I'm Batuhan Aral</h1>
 <h3 align="center">A passionate Backend developer from Turket</h3>
 
